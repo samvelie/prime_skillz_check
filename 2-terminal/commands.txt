@@ -3,7 +3,7 @@
 
 # 1 - What is the command for changing directories?
 
-# 2 - What is a quick way to get to your user's directory?
+# 2 - What is a quick way to get to your user's (home) directory?
 
 # 3 - What is a quick way to get to the root directory?
 
