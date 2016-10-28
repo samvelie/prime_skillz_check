@@ -11,12 +11,3 @@
 // 3 - Write a function expression
 // that takes one argument and
 // console logs that value.
-
-// 4 - Write a function that takes
-// another function as an argument.
-// This function merely executes the
-// given function.
-
-// 5 - Call the function from 4 and
-// pass the function from 3 in as an
-// argument.

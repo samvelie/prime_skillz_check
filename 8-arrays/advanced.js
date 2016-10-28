@@ -1,4 +1,4 @@
-// 1 - Add the value 32 to the end of
+// 1 - Use a built-in method of Arrays to add the value 32 to the end of
 // the following array.
 
 var arr = [3, 4, 6, 0];
@@ -10,6 +10,6 @@ var arr = [3, 4, 6, 0];
 // each array value from smallest
 // to largest.
 
-// 4 - Use the map method to 
+// 4 - Use the forEach method to
 // halve the value of each
-// value in the array.
+// number in the array.
