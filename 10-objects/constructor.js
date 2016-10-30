@@ -4,8 +4,8 @@
 // - side2
 // - base
 // The object should have two functions
-// - area returns area of triangle
-// - perimeter returns perimeter of triangle
+// - area() returns the area of this triangle
+// - perimeter() returns the perimeter of this triangle
 
 // 2 - Create two instances of the RightTriangle
 // object. Console log the results of calling
