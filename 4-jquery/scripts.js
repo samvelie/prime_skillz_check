@@ -1,7 +1,6 @@
-	// After the DOM loads, add a paragraph that says "Page loaded"
+	// 1 - After the DOM loads, add a paragraph tag that says "Page loaded"
 	// to the section element
 
-	// At page load, add a button with a class of "gotcha" to the main element.
+	// 2 - Change the text of the h1 element to something (anything!) else.
 
-	// When the above button is clicked, update the section element with
-	// a paragraph that says "I traverse the DOM like a champ"
+  // 3 - Get rid of (delete) the useless unordered list by first selecting the h2 and traversing upward.
