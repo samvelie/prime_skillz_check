@@ -1,3 +1,5 @@
+// DO NOT CHANGE THE HTML FILE
+
 	// 1 - After the DOM loads, add a paragraph tag that says "Page loaded"
 	// to the section element
 
