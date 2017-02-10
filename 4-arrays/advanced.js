@@ -5,6 +5,7 @@
 var arr = [3, 4, 6, 0];
 
 // 2 - Remove the first value from
-// arr using the slice method.
+// arr using the Array built-in method.
+
 
 // 3 - Add the number 11 to the beginning of arr
